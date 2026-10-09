@@ -1,20 +1,10 @@
-\---
-
+---
 layout: default
+---
 
-\---
+# Образование
+- студентка бакалавриата СПбГУ по направлению «технологии программирования»
 
-
-
-\# образование
-
-\- студентка бакалавриата СПбГУ по направлению «технологии программирования»
-
-
-
-\# контакты
-
-\- email: guzanovavlada@gmail.com
-
-\- telegram: @alkmetal (https://t.me/alkmetal)
-
+# Контакты
+- email: guzanovavlada@gmail.com
+- telegram: [@alkmetal](https://t.me/alkmetal)
